@@ -22,7 +22,7 @@ export default function Servicos(){
                     </div>
                     <div className="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
                         <p className="text-2xl font-bold">Terapia Ocupacional.</p>
-                        <p>Free and Premium themes, UI Kit's, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
+                        <p>Free and Premium themes, UI Kits, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
                     </div>
                 </div>
                 <div className="flex flex-col items-center pb-10 mx-auto my-10 border-b border-gray-200 max-w-7xl sm:flex-row">
@@ -33,7 +33,7 @@ export default function Servicos(){
                     </div>
                     <div className="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
                         <p className="text-2xl font-bold">Médicos e  Enfemeiras 24 Horas.</p>
-                        <p>Free and Premium themes, UI Kit's, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
+                        <p>Free and Premium themes, UI Kits, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
                     </div>
                 </div>
                 <div className="flex flex-col items-center pb-10 mx-auto my-10 border-b border-gray-200 max-w-7xl sm:flex-row">
@@ -46,7 +46,7 @@ export default function Servicos(){
                     </div>
                     <div className="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
                         <p className="text-2xl font-bold">Cuidadores treinados</p>
-                        <p>Free and Premium themes, UI Kit's, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
+                        <p>Free and Premium themes, UI Kits, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
                     </div>
                 </div>
             </div>

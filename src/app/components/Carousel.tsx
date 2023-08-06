@@ -1,5 +1,5 @@
 "use client";
-//import Image from "next/image";
+import Image from "next/image";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from "react-responsive-carousel";
 
@@ -17,14 +17,21 @@ export default function Home() {
         className="carousel-con"
       >
         <div>
-          <img 
+          <Image 
+          width={800}
+          height={800}
+          alt="Carousel01"
             className="w-full"
-            src="https://pfarma.com.br/images/noticias/cuidados-saude-idosos.jpg"
+            src="/cuidados-saude-idosos.jpg"
           />
           <p className="legend">Legend 1</p>
         </div>
         <div>
-          <img src="https://reabilitacia-art.ru/sites/default/files/k57g6l86sh.jpg" />
+          <Image 
+          width={800}
+          height={800}
+          alt="Carousel02" 
+          src="/Dementia-with-lewy-bodies-hero-1200x525.jpg" />
           <p className="legend">
             <span className="text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
               Legend 2
@@ -32,7 +39,10 @@ export default function Home() {
           </p>
         </div>
         <div>
-          <img src="https://www.lumultra.com/blog/wp-content/uploads/2016/10/Dementia-with-lewy-bodies-hero-1200x525.jpg" />
+          <Image 
+          width={800}
+          height={800}
+          alt="Carousel03" src="/k57g6l86sh.jpg" />
           <p className="legend "><span className="text-2xl text-red-800">Legenda do terceiro item</span></p>
         </div>
       </Carousel>
