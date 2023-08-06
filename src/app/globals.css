@@ -25,3 +25,77 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.navbar-tr {
+  /*
+  background-color: rgba( 118, 151, 252, 1);
+  */
+  box-shadow: 0px 8px 10px -15px rgba(0,0,0,0.75);
+}
+
+
+.top-to-bottom{
+  position: relative;
+  animation: toptobottom forwards 1s;
+  animation-delay: 0.20s;
+  opacity: 0;
+}
+
+.bottom-to-top{
+  position: relative;
+  opacity: 0;
+  animation:bottomtotop forwards 1s;
+  animation-delay: .25s;
+}
+.to-right{
+  position: relative;
+  animation: toright forwards 1s;
+}
+
+.to-left{
+  position: relative;
+  animation: toleft forwards 1s;
+}
+
+@keyframes toleft {
+  from{
+    opacity: 0;
+    left: 150px;
+  }to{
+    opacity: 1;
+    left: 0;
+  }
+}
+@keyframes toright {
+  from{
+    opacity: 0;
+    left: -150px;
+  }to{
+    opacity: 1;
+    left: 0;
+  }
+}
+
+@keyframes toptobottom {
+  from{
+    opacity: 0;
+    top:-150px;
+  }to{
+    opacity: 1;
+    top: 0;
+  }
+  
+}
+
+
+@keyframes bottomtotop {
+  from{
+    opacity: 0;
+    top:150px;
+  }to{
+    opacity: 1;
+    top: 0;
+  }
+  
+}
+
+
