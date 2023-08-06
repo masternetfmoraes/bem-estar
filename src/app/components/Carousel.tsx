@@ -13,7 +13,6 @@ export default function Home() {
         animationHandler="fade"
         showThumbs={false}
         autoPlay={true}
-        interval="6000"
         className="carousel-con"
       >
         <div>
