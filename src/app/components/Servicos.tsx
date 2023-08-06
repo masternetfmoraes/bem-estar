@@ -10,7 +10,7 @@ export default function Servicos(){
                         <p className="text-2xl font-bold">Quais os serviços que oferecemos .</p>
                         <p className="">Todos serviços que oferemos são serviços de excelência com os 
                         mais completos serviços especializados e com uma infra-estrutura confortável 
-                        e moderna, além de profissionais treinados para identificar as reais necessidades 
+                        e moderna, além de profissionais treinados para identificar as reaimgis necessidades 
                         de cada hóspede.</p>
                     </div>
                 </div>

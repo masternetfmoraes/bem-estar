@@ -1,4 +1,5 @@
 "use client"
+import Image from "next/image";
 import { InView } from "react-intersection-observer";
 export default function Jumbotron() {
     return (
@@ -56,9 +57,11 @@ export default function Jumbotron() {
                   <div className={`${
                 inView ? "to-left" : "hidden"
               }`}>
-              <img
-                src="https://www.absassistenza.it/assets/img/banner/banner-1.jpg"
-                alt="mockup"
+              <Image 
+               width={800}
+                height={800}
+                alt="Banner1"
+                src="/banner-1.jpg"
               />
               </div>
                 </div>
