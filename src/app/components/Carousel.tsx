@@ -17,7 +17,7 @@ export default function Home() {
         className="carousel-con"
       >
         <div>
-          <img
+          <img 
             className="w-full"
             src="https://pfarma.com.br/images/noticias/cuidados-saude-idosos.jpg"
           />
