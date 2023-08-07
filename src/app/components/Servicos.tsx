@@ -2,19 +2,19 @@
 export default function Servicos(){
     return (
         <>
-        <section>
+        <section className="bg-white">
             <div className=" flex flex-col bg-white items-center px-5 py-8 mx-auto max-w-7xl sm:px-6 lg:px-8">
-                <div className="flex flex-col w-full max-w-3xl mx-auto prose text-left prose-blue">
+                <div className="flex flex-col w-full mx-auto prose text-left prose-blue">
                     <div className="w-full mx-auto">
                         <p className="text-5xl font-bold py-5">Serviços .</p>
                         <p className="text-2xl font-bold">Quais os serviços que oferecemos .</p>
                         <p className="">Todos serviços que oferemos são serviços de excelência com os 
                         mais completos serviços especializados e com uma infra-estrutura confortável 
-                        e moderna, além de profissionais treinados para identificar as reaimgis necessidades 
+                        e moderna, além de profissionais treinados para identificar as necessidades 
                         de cada hóspede.</p>
                     </div>
                 </div>
-                <div className="flex flex-col items-center pb-10 mx-auto my-10 border-b border-gray-200 max-w-7xl sm:flex-row">
+                <div className="flex flex-col items-center  mx-auto my-10 border-b border-gray-200 max-w-7xl sm:flex-row">
                     <div className="inline-flex items-center justify-center flex-shrink-0 w-20 h-20 text-neutral-600 rounded-full bg-gray-50 sm:mr-10">
                     <svg className="w-10 h-10 text-gray-800 dark:text-white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
                         <path stroke="currentColor" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M13.408 7.5h.01m-6.876 0h.01M19 10a9 9 0 1 1-18 0 9 9 0 0 1 18 0ZM4.6 11a5.5 5.5 0 0 0 10.81 0H4.6Z"/>
@@ -22,7 +22,7 @@ export default function Servicos(){
                     </div>
                     <div className="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
                         <p className="text-2xl font-bold">Terapia Ocupacional.</p>
-                        <p>Free and Premium themes, UI Kits, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
+                        <p>Atividades terapêuticas para ajudar as pessoas a melhorar sua capacidade de realizar atividades diárias significativas, promovendo a saúde, reabilitação e inclusão social.</p>
                     </div>
                 </div>
                 <div className="flex flex-col items-center pb-10 mx-auto my-10 border-b border-gray-200 max-w-7xl sm:flex-row">
@@ -33,7 +33,7 @@ export default function Servicos(){
                     </div>
                     <div className="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
                         <p className="text-2xl font-bold">Médicos e  Enfemeiras 24 Horas.</p>
-                        <p>Free and Premium themes, UI Kits, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
+                        <p>Com médicos e enfermeiros 24 horas por dia,  altamente capacitados e treinados para cuidar de nossos hóspedes, promovendo uma qualidade de vida e saúde entre nossos hóspedes .</p>
                     </div>
                 </div>
                 <div className="flex flex-col items-center pb-10 mx-auto my-10 border-b border-gray-200 max-w-7xl sm:flex-row">
@@ -46,7 +46,7 @@ export default function Servicos(){
                     </div>
                     <div className="flex-grow mt-6 prose text-center sm:text-left sm:mt-0 prose-md">
                         <p className="text-2xl font-bold">Cuidadores treinados</p>
-                        <p>Free and Premium themes, UI Kits, templates and landing pages built with Tailwind CSS, HTML &amp; Next.js.</p>
+                        <p>Todos nossos cuidadores estão habilitados em todas normas, treinamentos e requisitos para oferecer o melhor para nossos hóspedes, onde auxliam no conforto e qualidade de vida para todos</p>
                     </div>
                 </div>
             </div>
