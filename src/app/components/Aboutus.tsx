@@ -4,6 +4,7 @@ export default function Multiple() {
   //triggerOnce={true}
   return (
     <>
+    <section id="sobre" className="pb-12">
     <div className="w-full p-10 overflow-hidden rounded-lg bg-white shadow">
       <InView triggerOnce={true}>
         {({ inView, ref, entry }) => (
@@ -37,6 +38,7 @@ export default function Multiple() {
       </InView>
     </div>
     <hr className="h-px my-2 bg-blue-100 shadow-xl border-0 dark:bg-gray-700"></hr>
+    </section>
     </>
   );
 }

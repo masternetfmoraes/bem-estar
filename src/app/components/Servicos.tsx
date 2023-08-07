@@ -2,7 +2,7 @@
 export default function Servicos(){
     return (
         <>
-        <section className="py-10"> 
+        <section id="servicos" className="py-10"> 
             <div className=" flex flex-col bg-white items-center px-12">
                 <div className="flex flex-col w-full mx-auto prose text-left prose-blue">
                     <div className="w-full mx-auto pt-12">

@@ -4,7 +4,7 @@ import { InView } from "react-intersection-observer";
 export default function Jumbotron() {
     return (
       <>
-        <section className="bg-white dark:bg-white">
+        <section  className="bg-white dark:bg-white">
           <div className="grid max-w-screen-xl px-4 py-8 mx-auto lg:gap-8 xl:gap-0 lg:py-16 lg:grid-cols-12 bg-white">
             <div className="mr-auto place-self-center lg:col-span-7">
             <InView triggerOnce={true}>
