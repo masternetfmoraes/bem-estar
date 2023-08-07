@@ -1,1 +1,59 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 283 64"><path fill="black" d="M141 16c-11 0-19 7-19 18s9 18 20 18c7 0 13-3 16-7l-7-5c-2 3-6 4-9 4-5 0-9-3-10-7h28v-3c0-11-8-18-19-18zm-9 15c1-4 4-7 9-7s8 3 9 7h-18zm117-15c-11 0-19 7-19 18s9 18 20 18c6 0 12-3 16-7l-8-5c-2 3-5 4-8 4-5 0-9-3-11-7h28l1-3c0-11-8-18-19-18zm-10 15c2-4 5-7 10-7s8 3 9 7h-19zm-39 3c0 6 4 10 10 10 4 0 7-2 9-5l8 5c-3 5-9 8-17 8-11 0-19-7-19-18s8-18 19-18c8 0 14 3 17 8l-8 5c-2-3-5-5-9-5-6 0-10 4-10 10zm83-29v46h-9V5h9zM37 0l37 64H0L37 0zm92 5-27 48L74 5h10l18 30 17-30h10zm59 12v10l-3-1c-6 0-10 4-10 10v15h-9V17h9v9c0-5 6-9 13-9z"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="30"
+   height="30"
+   viewBox="0 0 0.9 0.9"
+   version="1.1"
+   id="svg827"
+   sodipodi:docname="vercel.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   style="fill:none">
+  <metadata
+     id="metadata833">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs831" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview829"
+     showgrid="false"
+     inkscape:zoom="3.8042345"
+     inkscape:cx="-21.204289"
+     inkscape:cy="23.817463"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg827" />
+  <path
+     style="fill:#ff0000;stroke-width:0.04172551"
+     d="m 0.64555617,0.09087858 c -0.0476793,-8.4638e-4 -0.0987286,0.014525 -0.14848629,0.0509517 l 0.0806156,0.0805877 c 0.0122214,0.0122192 0.0122173,0.0320502 0,0.0442732 -0.0122215,0.0122232 -0.0320238,0.0122187 -0.0442454,0 l -0.083454,-0.0833983 C 0.262228,-0.01178074 0.03274411,0.13212632 0.03274411,0.335035 c 0,0.18380508 0.1376179,0.28981948 0.25478646,0.3800927 0.0121785,0.009384 0.024116,0.0186032 0.0356745,0.0277164 0.0433223,0.0341523 0.0850556,0.0663128 0.12678104,0.0663128 0.0417255,0 0.0834576,-0.0321605 0.12678102,-0.0663128 0.0115581,-0.009113 0.0235269,-0.0183322 0.0357023,-0.0277164 0.11716942,-0.0902732 0.25478645,-0.19628762 0.25478645,-0.3800927 0,-0.1338298 -0.0998529,-0.2419935 -0.22169971,-0.24415642 z"
+     id="path825"
+     inkscape:connector-curvature="0" />
+</svg>
