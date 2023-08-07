@@ -3,7 +3,7 @@ export default function Servicos(){
     return (
         <>
         <section>
-            <div className=" flex flex-col items-center px-5 py-8 mx-auto max-w-7xl sm:px-6 lg:px-8">
+            <div className=" flex flex-col bg-white items-center px-5 py-8 mx-auto max-w-7xl sm:px-6 lg:px-8">
                 <div className="flex flex-col w-full max-w-3xl mx-auto prose text-left prose-blue">
                     <div className="w-full mx-auto">
                         <p className="text-5xl font-bold py-5">Serviços .</p>
