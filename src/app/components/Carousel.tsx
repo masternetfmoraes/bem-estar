@@ -23,7 +23,7 @@ export default function Home() {
             className="w-full"
             src="/cuidados-saude-idosos.jpg"
           />
-          <p className="legend">Legend 1</p>
+          <p className="legend"><span className="text-3xl font-bold">Ambiente Familiar</span></p>
         </div>
         <div>
           <Image 
@@ -31,18 +31,14 @@ export default function Home() {
           height={800}
           alt="Carousel02" 
           src="/Dementia-with-lewy-bodies-hero-1200x525.jpg" />
-          <p className="legend">
-            <span className="text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl dark:text-white">
-              Legend 2
-            </span>
-          </p>
+          <p className="legend"><span className="text-3xl font-bold">Cuidando com Amor</span></p>
         </div>
         <div>
           <Image 
           width={800}
           height={800}
           alt="Carousel03" src="/k57g6l86sh.jpg" />
-          <p className="legend "><span className="text-2xl text-red-800">Legenda do terceiro item</span></p>
+          <p className="legend"><span className="text-3xl font-bold">Familia é tudo</span></p>
         </div>
       </Carousel>
     </div>
