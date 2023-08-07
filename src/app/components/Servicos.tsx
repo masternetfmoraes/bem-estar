@@ -2,10 +2,10 @@
 export default function Servicos(){
     return (
         <>
-        <section className="bg-white"> 
-            <div className=" flex flex-col bg-white items-center px-5 py-8 mx-auto max-w-7xl sm:px-6 lg:px-8">
+        <section className="py-10"> 
+            <div className=" flex flex-col bg-white items-center px-12">
                 <div className="flex flex-col w-full mx-auto prose text-left prose-blue">
-                    <div className="w-full mx-auto">
+                    <div className="w-full mx-auto pt-12">
                         <p className="text-5xl font-bold py-5">Serviços .</p>
                         <p className="text-2xl font-bold">Quais os serviços que oferecemos .</p>
                         <p className="">Todos serviços que oferemos são serviços de excelência com os 
