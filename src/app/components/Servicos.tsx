@@ -2,7 +2,7 @@
 export default function Servicos(){
     return (
         <>
-        <section className="bg-white">
+        <section className="bg-white"> 
             <div className=" flex flex-col bg-white items-center px-5 py-8 mx-auto max-w-7xl sm:px-6 lg:px-8">
                 <div className="flex flex-col w-full mx-auto prose text-left prose-blue">
                     <div className="w-full mx-auto">
